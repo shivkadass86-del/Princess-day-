@@ -9,8 +9,7 @@ Happy princess day
     <style>
         body { font-family: Arial, sans-serif; background-color: #ffe6f7; color: #333; text-align: center; padding: 20px; }
         .letter { max-width: 600px; margin: auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
-        img { max-width: 100%; height: auto; margin: 10px 0; border-radius: 10px; }
-        h1 { color: #ff69b4; }
+     h1 { color: #ff69b4; }
     </style>
 </head>
 <body>
